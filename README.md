@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- Novo GIF -->
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
 ###
 
@@ -34,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Cobol_logo.svg" height="30" alt="cobol logo" />
+  <img src="https://raw.githubusercontent.com/tscheer/cobol-language-support/main/images/cobol-logo.png" height="30" alt="cobol logo" />
   <img width="12" />
 </div>
 
@@ -53,20 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/andrefg5/andrefg5/output/snake.svg" alt="Snake animation" />
+<!-- Snake funcionando -->
+<img src="https://github.com/andrefg5/andrefg5/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-<!--
-**andrefg5/andrefg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
